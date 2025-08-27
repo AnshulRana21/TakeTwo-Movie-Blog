@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import PageWrapper from "../components/PageWrapper";
 
 const backgroundImage =
     "https://wallpapercave.com/wp/wp4027189.jpg";
