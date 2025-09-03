@@ -21,7 +21,7 @@ import Dashboard from "./pages/Dashboard"
 
 
 
-// SEE THE WHOLE THING FROM THE MAIN.JSX FILE !!!!!!!!!!
+// SEE THE WHOLE THING FROM THE MAIN.JSX FILE(for self practice) !!!!!!!!!!
 
 
 function App() {
